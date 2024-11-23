@@ -1,0 +1,31 @@
+research_task:
+  description: >
+    Conduct a thorough research about {topic} specifically technology stocks like Microsoft, Amazon, Infosys {topic}
+    Make sure you find any interesting and relevant information given
+    the current year is 2024.
+  expected_output: >
+    A list with 10 bullet points of the most relevant information about {topic}
+  agent: researcher
+
+reporting_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+    Tell how the related technology stocks performed overtime
+  expected_output: >
+    A fully fledge reports with the mains topics, each with a full section of information 
+    about the performance of these stocks in the last 3 years.
+    Formatted as markdown without '```'
+  agent: Performance_Summary_Agent
+
+
+comparison_task:
+  description: > 
+    You are given a stock and you need to suggest similar stocks in that domain and
+    perform a brief comparison between all of them. Include a suggestion at the end about
+    which stock is the most appropriate to invest in.
+    Don't create hypothetical stocks. Use actual stocks like Microsoft, Amazon, Apple.
+  expected_output: >
+    A brief comparison in bullet form about the given stocks and a conclusion like suggestion
+    about which stock to invest in.
+  agent: Comparison_and_Suggestion_Agent
