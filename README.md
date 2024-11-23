@@ -9,4 +9,4 @@ pip install crewai crewai-tools
 crewai run
 ```
 * Output :
-* ![GenAIMajor-q2/Screenshot 2024-11-23 052311.png](GenAIMajor-q2/Screenshot 2024-11-23 052311.png)
+* ![!GenAIMajor-q2/Screenshot 2024-11-23 052311.png](GenAIMajor-q2/Screenshot 2024-11-23 052311.png)
