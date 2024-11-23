@@ -9,4 +9,6 @@ pip install crewai crewai-tools
 crewai run
 ```
 * Output :
-* ![](1.png)
+* ![](GenAIMajor-q2/1.png)
+* ![](GenAIMajor-q2/2.png)
+* ![](GenAIMajor-q2/3.png)
