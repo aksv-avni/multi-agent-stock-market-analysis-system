@@ -1,3 +1,16 @@
+# Multi-agent Stock-Market Analyst
+### I created a Multi-agent Stock-Market
+Analysis system which involves 3 agents
+working together to provide information and
+Analysis on the Stock Data. It researches the
+trends, performs an analysis and provides a
+suggestion for stock investment specifically
+for technology related stocks. The main files
+in the code are : agents.yaml, tasks.yaml,
+crew.py, main.py
+
+### LLM used : Gemini Flash 1.5
+
 # instructions to run the code 
 
 * Install the dependencies :
