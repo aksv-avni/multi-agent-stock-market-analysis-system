@@ -10,8 +10,7 @@ in the code are : agents.yaml, tasks.yaml,
 crew.py, main.py
 
 ### LLM used : Gemini Flash 1.5
-### Working Demo Link : https://drive.google.com/file/d/1JITA5nhZFLAJ83nzKUR4x
-V40x6DtPDE2/view?usp=sharing
+### Working Demo Link : https://drive.google.com/file/d/1JITA5nhZFLAJ83nzKUR4xV40x6DtPDE2/view?usp=sharing
 # instructions to run the code 
 
 * Install the dependencies :
