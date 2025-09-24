@@ -1,5 +1,5 @@
 # Multi-agent Stock-Market Analyst
-### I created a Multi-agent Stock-Market
+I created a Multi-agent Stock-Market
 Analysis system which involves 3 agents
 working together to provide information and
 Analysis on the Stock Data. It researches the
@@ -10,7 +10,8 @@ in the code are : agents.yaml, tasks.yaml,
 crew.py, main.py
 
 ### LLM used : Gemini Flash 1.5
-
+### Working Demo Link : https://drive.google.com/file/d/1JITA5nhZFLAJ83nzKUR4x
+V40x6DtPDE2/view?usp=sharing
 # instructions to run the code 
 
 * Install the dependencies :
